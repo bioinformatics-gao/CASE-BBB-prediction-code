@@ -1,0 +1,674 @@
+Adjustment disorder with anxiety$Adjustment disorders (incl subtypes)
+Adjustment disorder with depressed mood$Adjustment disorders (incl subtypes)
+Adjustment disorder with disturbance of conduct$Adjustment disorders (incl subtypes)
+Adjustment disorder with mixed anxiety and depressed mood$Adjustment disorders (incl subtypes)
+Adjustment disorder with mixed disturbance of emotion and conduct$Adjustment disorders (incl subtypes)
+Grief reaction$Adjustment disorders (incl subtypes)
+Adjustment disorder$Adjustment disorders (incl subtypes)
+Agitation$Anxiety disorders and symptoms
+Agitation neonatal$Anxiety disorders and symptoms
+Akathisia$Anxiety disorders and symptoms
+Anticipatory anxiety$Anxiety disorders and symptoms
+Anxiety$Anxiety disorders and symptoms
+Nervousness$Anxiety disorders and symptoms
+Stress$Anxiety disorders and symptoms
+Tension$Anxiety disorders and symptoms
+Anxiety postoperative$Anxiety disorders and symptoms
+Agitation postoperative$Anxiety disorders and symptoms
+Pseudoangina$Anxiety disorders and symptoms
+Activation syndrome$Anxiety disorders and symptoms
+Acute stress disorder$Anxiety disorders and symptoms
+Post-traumatic stress disorder$Anxiety disorders and symptoms
+Postpartum stress disorder$Anxiety disorders and symptoms
+Burnout syndrome$Anxiety disorders and symptoms
+Acrophobia$Anxiety disorders and symptoms
+Agoraphobia$Anxiety disorders and symptoms
+Animal phobia$Anxiety disorders and symptoms
+Claustrophobia$Anxiety disorders and symptoms
+Fear$Anxiety disorders and symptoms
+Fear of animals$Anxiety disorders and symptoms
+Fear of closed spaces$Anxiety disorders and symptoms
+Fear of disease$Anxiety disorders and symptoms
+Fear of open spaces$Anxiety disorders and symptoms
+Fear of weight gain$Anxiety disorders and symptoms
+Performance fear$Anxiety disorders and symptoms
+Phobia$Anxiety disorders and symptoms
+Phobia of exams$Anxiety disorders and symptoms
+Phobia of flying$Anxiety disorders and symptoms
+Phobic avoidance$Anxiety disorders and symptoms
+Social fear$Anxiety disorders and symptoms
+Social phobia$Anxiety disorders and symptoms
+Fear of falling$Anxiety disorders and symptoms
+Dysmorphophobia$Anxiety disorders and symptoms
+Ochlophobia$Anxiety disorders and symptoms
+Phagophobia$Anxiety disorders and symptoms
+Fear of crowded places$Anxiety disorders and symptoms
+Fear of eating$Anxiety disorders and symptoms
+Arachnophobia$Anxiety disorders and symptoms
+Hydrophobia$Anxiety disorders and symptoms
+Phonophobia$Anxiety disorders and symptoms
+Phobia of driving$Anxiety disorders and symptoms
+Noctiphobia$Anxiety disorders and symptoms
+Nocturnal fear$Anxiety disorders and symptoms
+Osmophobia$Anxiety disorders and symptoms
+Nosophobia$Anxiety disorders and symptoms
+Photaugiaphobia$Anxiety disorders and symptoms
+Thanatophobia$Anxiety disorders and symptoms
+Fear of death$Anxiety disorders and symptoms
+Fear of pregnancy$Anxiety disorders and symptoms
+Haphephobia$Anxiety disorders and symptoms
+Fear of needles$Anxiety disorders and symptoms
+Paruresis$Anxiety disorders and symptoms
+Pharmacophobia$Anxiety disorders and symptoms
+Emetophobia$Anxiety disorders and symptoms
+Autophobia$Anxiety disorders and symptoms
+Limited symptom panic attack$Anxiety disorders and symptoms
+Panic attack$Anxiety disorders and symptoms
+Panic disorder$Anxiety disorders and symptoms
+Panic disorder without agoraphobia$Anxiety disorders and symptoms
+Panic reaction$Anxiety disorders and symptoms
+Panic disorder with agoraphobia$Anxiety disorders and symptoms
+Obsessive thoughts$Anxiety disorders and symptoms
+Compulsions$Anxiety disorders and symptoms
+Obsessive-compulsive disorder$Anxiety disorders and symptoms
+Compulsive handwashing$Anxiety disorders and symptoms
+Paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection$Anxiety disorders and symptoms
+Anxiety disorder due to a general medical condition$Anxiety disorders and symptoms
+Generalised anxiety disorder$Anxiety disorders and symptoms
+Neurosis$Anxiety disorders and symptoms
+Postpartum neurosis$Anxiety disorders and symptoms
+Anxiety disorder$Anxiety disorders and symptoms
+Catatonia$Changes in physical activity
+Decreased activity$Changes in physical activity
+Psychomotor hyperactivity$Changes in physical activity
+Restlessness$Changes in physical activity
+Automatism$Changes in physical activity
+Automatism epileptic$Changes in physical activity
+Automatism, command$Changes in physical activity
+Bruxism$Changes in physical activity
+Echolalia$Changes in physical activity
+Head banging$Changes in physical activity
+Posturing$Changes in physical activity
+Stereotypy$Changes in physical activity
+Waxy flexibility$Changes in physical activity
+Echopraxia$Changes in physical activity
+Tic$Changes in physical activity
+Tourette's disorder$Changes in physical activity
+Attention deficit/hyperactivity disorder$Cognitive and attention disorders and disturbances
+Atypical attention deficit syndrome$Cognitive and attention disorders and disturbances
+Oppositional defiant disorder$Cognitive and attention disorders and disturbances
+Conduct disorder$Cognitive and attention disorders and disturbances
+Change in sustained attention$Cognitive and attention disorders and disturbances
+Distractibility$Cognitive and attention disorders and disturbances
+Disturbance in attention$Cognitive and attention disorders and disturbances
+Mental impairment$Cognitive and attention disorders and disturbances
+Lennox-Gastaut syndrome$Cognitive and attention disorders and disturbances
+Borderline mental impairment$Cognitive and attention disorders and disturbances
+Daydreaming$Cognitive and attention disorders and disturbances
+Cognitive disorder$Cognitive and attention disorders and disturbances
+Cerebellar cognitive affective syndrome$Cognitive and attention disorders and disturbances
+Minor cognitive motor disorder$Cognitive and attention disorders and disturbances
+Executive dysfunction$Cognitive and attention disorders and disturbances
+Reading disorder$Cognitive and attention disorders and disturbances
+Learning disorder$Cognitive and attention disorders and disturbances
+Cri du Chat syndrome$Cognitive and attention disorders and disturbances
+Fragile X syndrome$Cognitive and attention disorders and disturbances
+Galactosaemia$Cognitive and attention disorders and disturbances
+Mental retardation$Cognitive and attention disorders and disturbances
+Mild mental retardation$Cognitive and attention disorders and disturbances
+Moderate mental retardation$Cognitive and attention disorders and disturbances
+Phenylketonuria$Cognitive and attention disorders and disturbances
+Prader-Willi syndrome$Cognitive and attention disorders and disturbances
+Profound mental retardation$Cognitive and attention disorders and disturbances
+Rubinstein-Taybi syndrome$Cognitive and attention disorders and disturbances
+Severe mental retardation$Cognitive and attention disorders and disturbances
+Trisomy 21$Cognitive and attention disorders and disturbances
+Trisomy 22$Cognitive and attention disorders and disturbances
+Sjogren-Larsson syndrome$Cognitive and attention disorders and disturbances
+Cohen syndrome$Cognitive and attention disorders and disturbances
+Williams syndrome$Cognitive and attention disorders and disturbances
+Wolf-Hirschhorn syndrome$Cognitive and attention disorders and disturbances
+Langer-Giedion syndrome$Cognitive and attention disorders and disturbances
+Oculocerebrorenal syndrome$Cognitive and attention disorders and disturbances
+Osteoporosis-pseudoglioma syndrome$Cognitive and attention disorders and disturbances
+Greig's syndrome$Cognitive and attention disorders and disturbances
+Trisomy 18$Cognitive and attention disorders and disturbances
+Trisomy 17$Cognitive and attention disorders and disturbances
+Laurence-Moon-Bardet-Biedl syndrome$Cognitive and attention disorders and disturbances
+Dubowitz syndrome$Cognitive and attention disorders and disturbances
+Schinzel-Giedion syndrome$Cognitive and attention disorders and disturbances
+Kabuki make-up syndrome$Cognitive and attention disorders and disturbances
+CHARGE syndrome$Cognitive and attention disorders and disturbances
+Velo-cardio-facial syndrome$Cognitive and attention disorders and disturbances
+Adiposogenital dystrophy$Cognitive and attention disorders and disturbances
+Tetrahydrobiopterin deficiency$Cognitive and attention disorders and disturbances
+Norrie's disease$Cognitive and attention disorders and disturbances
+Trisomy 14$Cognitive and attention disorders and disturbances
+Mevalonic aciduria$Cognitive and attention disorders and disturbances
+Familial scaphocephaly syndrome$Cognitive and attention disorders and disturbances
+Acalculia$Cognitive and attention disorders and disturbances
+Agraphia$Cognitive and attention disorders and disturbances
+Alexia$Cognitive and attention disorders and disturbances
+Aphasia$Cognitive and attention disorders and disturbances
+Apraxia$Cognitive and attention disorders and disturbances
+Dyslexia$Cognitive and attention disorders and disturbances
+Neurologic neglect syndrome$Cognitive and attention disorders and disturbances
+Gerstmann's syndrome$Cognitive and attention disorders and disturbances
+Agnosia$Cognitive and attention disorders and disturbances
+Hemiapraxia$Cognitive and attention disorders and disturbances
+Dyscalculia$Cognitive and attention disorders and disturbances
+Amusia$Cognitive and attention disorders and disturbances
+Central auditory processing disorder$Cognitive and attention disorders and disturbances
+Anosognosia$Cognitive and attention disorders and disturbances
+Symbolic dysfunction$Cognitive and attention disorders and disturbances
+Alien limb syndrome$Cognitive and attention disorders and disturbances
+Aphonia$Communication disorders and disturbances
+Deaf mutism$Communication disorders and disturbances
+Expressive language disorder$Communication disorders and disturbances
+Mixed receptive-expressive language disorder$Communication disorders and disturbances
+Mutism$Communication disorders and disturbances
+Phonological disorder$Communication disorders and disturbances
+Selective mutism$Communication disorders and disturbances
+Speech disorder developmental$Communication disorders and disturbances
+Communication disorder$Communication disorders and disturbances
+Posterior fossa syndrome$Communication disorders and disturbances
+Cerebellar mutism$Communication disorders and disturbances
+Clang associations$Communication disorders and disturbances
+Logorrhoea$Communication disorders and disturbances
+Neologism$Communication disorders and disturbances
+Repetitive speech$Communication disorders and disturbances
+Speech disorder$Communication disorders and disturbances
+Verbigeration$Communication disorders and disturbances
+Taciturnity$Communication disorders and disturbances
+Idioglossia$Communication disorders and disturbances
+Slow speech$Communication disorders and disturbances
+Cluttering$Communication disorders and disturbances
+Coprolalia$Communication disorders and disturbances
+Dysarthria$Communication disorders and disturbances
+Dyslalia$Communication disorders and disturbances
+Dysphonia$Communication disorders and disturbances
+Dysprosody$Communication disorders and disturbances
+Lack of spontaneous speech$Communication disorders and disturbances
+Poverty of speech$Communication disorders and disturbances
+Pressure of speech$Communication disorders and disturbances
+Screaming$Communication disorders and disturbances
+Dysphemia$Communication disorders and disturbances
+Confusional state$Deliria (incl confusion)
+Disorientation$Deliria (incl confusion)
+Confusion postoperative$Deliria (incl confusion)
+Delirium$Deliria (incl confusion)
+Delirium tremens$Deliria (incl confusion)
+Delirium febrile$Deliria (incl confusion)
+Dementia Alzheimer's type$Dementia and amnestic conditions
+Dementia of the Alzheimer's type, uncomplicated$Dementia and amnestic conditions
+Dementia of the Alzheimer's type, with delirium$Dementia and amnestic conditions
+Dementia of the Alzheimer's type, with delusions$Dementia and amnestic conditions
+Dementia of the Alzheimer's type, with depressed mood$Dementia and amnestic conditions
+Presenile dementia$Dementia and amnestic conditions
+Alcohol induced persisting dementia$Dementia and amnestic conditions
+Post-traumatic amnestic disorder$Dementia and amnestic conditions
+Amnestic disorder$Dementia and amnestic conditions
+Korsakoff's syndrome$Dementia and amnestic conditions
+Wernicke-Korsakoff syndrome$Dementia and amnestic conditions
+Amnesia$Dementia and amnestic conditions
+Anterograde amnesia$Dementia and amnestic conditions
+Memory impairment$Dementia and amnestic conditions
+Paramnesia$Dementia and amnestic conditions
+Retrograde amnesia$Dementia and amnestic conditions
+Transient global amnesia$Dementia and amnestic conditions
+Creutzfeldt-Jakob disease$Dementia and amnestic conditions
+Dementia$Dementia and amnestic conditions
+Kuru$Dementia and amnestic conditions
+Senile dementia$Dementia and amnestic conditions
+Pseudodementia$Dementia and amnestic conditions
+Baltic myoclonic epilepsy$Dementia and amnestic conditions
+Fahr's disease$Dementia and amnestic conditions
+Variant Creutzfeldt-Jakob disease$Dementia and amnestic conditions
+AIDS dementia complex$Dementia and amnestic conditions
+Membranous lipodystrophy$Dementia and amnestic conditions
+Behavioural and psychiatric symptoms of dementia$Dementia and amnestic conditions
+Dementia with Lewy bodies$Dementia and amnestic conditions
+Frontotemporal dementia$Dementia and amnestic conditions
+Gerstmann Straussler Scheinker syndrome$Dementia and amnestic conditions
+Sneddon's syndrome$Dementia and amnestic conditions
+Vascular dementia$Dementia and amnestic conditions
+Vascular encephalopathy$Dementia and amnestic conditions
+Agitated depression$Depressed mood disorders and disturbances
+Depression$Depressed mood disorders and disturbances
+Depression postoperative$Depressed mood disorders and disturbances
+Depression suicidal$Depressed mood disorders and disturbances
+Dysthymic disorder$Depressed mood disorders and disturbances
+Postpartum depression$Depressed mood disorders and disturbances
+Major depression$Depressed mood disorders and disturbances
+Menopausal depression$Depressed mood disorders and disturbances
+Childhood depression$Depressed mood disorders and disturbances
+Post stroke depression$Depressed mood disorders and disturbances
+Postictal depression$Depressed mood disorders and disturbances
+Anhedonia$Depressed mood disorders and disturbances
+Decreased interest$Depressed mood disorders and disturbances
+Depressed mood$Depressed mood disorders and disturbances
+Feeling of despair$Depressed mood disorders and disturbances
+Feelings of worthlessness$Depressed mood disorders and disturbances
+Morose$Depressed mood disorders and disturbances
+Psychomotor retardation$Depressed mood disorders and disturbances
+Tearfulness$Depressed mood disorders and disturbances
+Feeling guilty$Depressed mood disorders and disturbances
+Depressive symptom$Depressed mood disorders and disturbances
+Negative thoughts$Depressed mood disorders and disturbances
+Developmental coordination disorder$Developmental disorders NEC
+Psychomotor skills impaired$Developmental disorders NEC
+Fine motor delay$Developmental disorders NEC
+Gross motor delay$Developmental disorders NEC
+Motor developmental delay$Developmental disorders NEC
+Asperger's disorder$Developmental disorders NEC
+Autism$Developmental disorders NEC
+Childhood disintegrative disorder$Developmental disorders NEC
+Rett's disorder$Developmental disorders NEC
+Autism spectrum disorder$Developmental disorders NEC
+Neurodevelopmental disorder$Developmental disorders NEC
+Depersonalisation$Dissociative disorders
+Dissociation$Dissociative disorders
+Dissociative amnesia$Dissociative disorders
+Dissociative disorder$Dissociative disorders
+Dissociative fugue$Dissociative disorders
+Dissociative identity disorder$Dissociative disorders
+Delusion$Disturbances in thinking and perception
+Delusion of grandeur$Disturbances in thinking and perception
+Delusion of reference$Disturbances in thinking and perception
+Delusion of replacement$Disturbances in thinking and perception
+Delusions, mixed$Disturbances in thinking and perception
+Erotomanic delusion$Disturbances in thinking and perception
+Jealous delusion$Disturbances in thinking and perception
+Persecutory delusion$Disturbances in thinking and perception
+Somatic delusion$Disturbances in thinking and perception
+Thought insertion$Disturbances in thinking and perception
+Thought withdrawal$Disturbances in thinking and perception
+Thought broadcasting$Disturbances in thinking and perception
+Cotard's syndrome$Disturbances in thinking and perception
+Depressive delusion$Disturbances in thinking and perception
+Deja vu$Disturbances in thinking and perception
+Delusional perception$Disturbances in thinking and perception
+Derealisation$Disturbances in thinking and perception
+Flashback$Disturbances in thinking and perception
+Formication$Disturbances in thinking and perception
+Hallucination$Disturbances in thinking and perception
+Hallucination, auditory$Disturbances in thinking and perception
+Hallucination, gustatory$Disturbances in thinking and perception
+Hallucination, olfactory$Disturbances in thinking and perception
+Hallucination, tactile$Disturbances in thinking and perception
+Hallucination, visual$Disturbances in thinking and perception
+Hallucinations, mixed$Disturbances in thinking and perception
+Illusion$Disturbances in thinking and perception
+Jamais vu$Disturbances in thinking and perception
+Somatic hallucination$Disturbances in thinking and perception
+Hallucination, synaesthetic$Disturbances in thinking and perception
+Paroxysmal perceptual alteration$Disturbances in thinking and perception
+Charles Bonnet syndrome$Disturbances in thinking and perception
+Circumstantiality$Disturbances in thinking and perception
+Confabulation$Disturbances in thinking and perception
+Derailment$Disturbances in thinking and perception
+Flight of ideas$Disturbances in thinking and perception
+Ideas of reference$Disturbances in thinking and perception
+Illogical thinking$Disturbances in thinking and perception
+Loose associations$Disturbances in thinking and perception
+Magical thinking$Disturbances in thinking and perception
+Perseveration$Disturbances in thinking and perception
+Poverty of thought content$Disturbances in thinking and perception
+Tangentiality$Disturbances in thinking and perception
+Thinking abnormal$Disturbances in thinking and perception
+Thought blocking$Disturbances in thinking and perception
+Bradyphrenia$Disturbances in thinking and perception
+Morbid thoughts$Disturbances in thinking and perception
+Obsessive rumination$Disturbances in thinking and perception
+Intellectualisation$Disturbances in thinking and perception
+Tachyphrenia$Disturbances in thinking and perception
+Impaired reasoning$Disturbances in thinking and perception
+Incoherent$Disturbances in thinking and perception
+Purging$Eating disorders and disturbances
+Self-induced vomiting$Eating disorders and disturbances
+Food hoarding$Eating disorders and disturbances
+Eating disorder symptom$Eating disorders and disturbances
+Anorexia and bulimia syndrome$Eating disorders and disturbances
+Anorexia nervosa$Eating disorders and disturbances
+Binge eating$Eating disorders and disturbances
+Bulimia nervosa$Eating disorders and disturbances
+Eating disorder$Eating disorders and disturbances
+Feeding disorder of infancy or early childhood$Eating disorders and disturbances
+Hyperphagia$Eating disorders and disturbances
+Merycism$Eating disorders and disturbances
+Pica$Eating disorders and disturbances
+Food aversion$Eating disorders and disturbances
+Aphagia$Eating disorders and disturbances
+Food craving$Eating disorders and disturbances
+Appetite disorder$Eating disorders and disturbances
+Feeding disorder$Eating disorders and disturbances
+Hypophagia$Eating disorders and disturbances
+Lack of satiety$Eating disorders and disturbances
+Impulsive behaviour$Impulse control disorders NEC
+Intermittent explosive disorder$Impulse control disorders NEC
+Kleptomania$Impulse control disorders NEC
+Pathological gambling$Impulse control disorders NEC
+Poriomania$Impulse control disorders NEC
+Pyromania$Impulse control disorders NEC
+Trichotillomania$Impulse control disorders NEC
+Onychophagia$Impulse control disorders NEC
+Impulse-control disorder$Impulse control disorders NEC
+Necromania$Impulse control disorders NEC
+Dermatillomania$Impulse control disorders NEC
+Compulsive lip biting$Impulse control disorders NEC
+Nail picking$Impulse control disorders NEC
+Compulsive shopping$Impulse control disorders NEC
+Compulsive hoarding$Impulse control disorders NEC
+Bipolar I disorder$Manic and bipolar mood disorders and disturbances
+Bipolar II disorder$Manic and bipolar mood disorders and disturbances
+Cyclothymic disorder$Manic and bipolar mood disorders and disturbances
+Bipolar disorder$Manic and bipolar mood disorders and disturbances
+Hypomania$Manic and bipolar mood disorders and disturbances
+Mania$Manic and bipolar mood disorders and disturbances
+Blunted affect$Mood disorders and disturbances NEC
+Constricted affect$Mood disorders and disturbances NEC
+Flat affect$Mood disorders and disturbances NEC
+Inappropriate affect$Mood disorders and disturbances NEC
+Affect lability$Mood disorders and disturbances NEC
+Anger$Mood disorders and disturbances NEC
+Crying$Mood disorders and disturbances NEC
+Diencephalic syndrome of infancy$Mood disorders and disturbances NEC
+Dysphoria$Mood disorders and disturbances NEC
+Elevated mood$Mood disorders and disturbances NEC
+Emotional disorder$Mood disorders and disturbances NEC
+Euphoric mood$Mood disorders and disturbances NEC
+Moaning$Mood disorders and disturbances NEC
+Mood altered$Mood disorders and disturbances NEC
+Premenstrual syndrome$Mood disorders and disturbances NEC
+Steroid withdrawal syndrome$Mood disorders and disturbances NEC
+Emotional distress$Mood disorders and disturbances NEC
+Frustration$Mood disorders and disturbances NEC
+Emotional poverty$Mood disorders and disturbances NEC
+Mood swings$Mood disorders and disturbances NEC
+Affective disorder$Mood disorders and disturbances NEC
+Apathy$Mood disorders and disturbances NEC
+Lethargy$Mood disorders and disturbances NEC
+Listless$Mood disorders and disturbances NEC
+Mood disorder due to a general medical condition$Mood disorders and disturbances NEC
+Seasonal affective disorder$Mood disorders and disturbances NEC
+Boredom$Mood disorders and disturbances NEC
+Laziness$Mood disorders and disturbances NEC
+Substance-induced mood disorder$Mood disorders and disturbances NEC
+Aggression$Personality disorders and disturbances in behaviour
+Antisocial behaviour$Personality disorders and disturbances in behaviour
+Asocial behaviour$Personality disorders and disturbances in behaviour
+Attention-seeking behaviour$Personality disorders and disturbances in behaviour
+Belligerence$Personality disorders and disturbances in behaviour
+Disinhibition$Personality disorders and disturbances in behaviour
+Grandiosity$Personality disorders and disturbances in behaviour
+Hostility$Personality disorders and disturbances in behaviour
+Indifference$Personality disorders and disturbances in behaviour
+Inferiority complex$Personality disorders and disturbances in behaviour
+Irritability$Personality disorders and disturbances in behaviour
+Judgement impaired$Personality disorders and disturbances in behaviour
+Negativism$Personality disorders and disturbances in behaviour
+Paranoia$Personality disorders and disturbances in behaviour
+Personality change$Personality disorders and disturbances in behaviour
+Social avoidant behaviour$Personality disorders and disturbances in behaviour
+Soliloquy$Personality disorders and disturbances in behaviour
+Suspiciousness$Personality disorders and disturbances in behaviour
+Violence-related symptom$Personality disorders and disturbances in behaviour
+Homicidal ideation$Personality disorders and disturbances in behaviour
+Impatience$Personality disorders and disturbances in behaviour
+Disturbance in social behaviour$Personality disorders and disturbances in behaviour
+Aversion$Personality disorders and disturbances in behaviour
+Suggestibility$Personality disorders and disturbances in behaviour
+Stubbornness$Personality disorders and disturbances in behaviour
+Pseudologia$Personality disorders and disturbances in behaviour
+Overconfidence$Personality disorders and disturbances in behaviour
+Egocentrism$Personality disorders and disturbances in behaviour
+Personality disorder$Personality disorders and disturbances in behaviour
+Pithiatism$Personality disorders and disturbances in behaviour
+Self esteem decreased$Personality disorders and disturbances in behaviour
+Self esteem inflated$Personality disorders and disturbances in behaviour
+Avoidant personality disorder$Personality disorders and disturbances in behaviour
+Dependent personality disorder$Personality disorders and disturbances in behaviour
+Obsessive-compulsive personality disorder$Personality disorders and disturbances in behaviour
+Antisocial personality disorder$Personality disorders and disturbances in behaviour
+Borderline personality disorder$Personality disorders and disturbances in behaviour
+Histrionic personality disorder$Personality disorders and disturbances in behaviour
+Narcissistic personality disorder$Personality disorders and disturbances in behaviour
+Psychopathic personality$Personality disorders and disturbances in behaviour
+Paranoid personality disorder$Personality disorders and disturbances in behaviour
+Schizoid personality disorder$Personality disorders and disturbances in behaviour
+Schizotypal personality disorder$Personality disorders and disturbances in behaviour
+Breath holding$Psychiatric and behavioural symptoms NEC
+Staring$Psychiatric and behavioural symptoms NEC
+Regressive behaviour$Psychiatric and behavioural symptoms NEC
+Abnormal behaviour$Psychiatric and behavioural symptoms NEC
+Sexually inappropriate behaviour$Psychiatric and behavioural symptoms NEC
+Choking sensation$Psychiatric and behavioural symptoms NEC
+Hyperventilation$Psychiatric and behavioural symptoms NEC
+Neglect of personal appearance$Psychiatric and behavioural symptoms NEC
+Throat tightness$Psychiatric and behavioural symptoms NEC
+Trance$Psychiatric and behavioural symptoms NEC
+Hypervigilance$Psychiatric and behavioural symptoms NEC
+Abulia$Psychiatric and behavioural symptoms NEC
+Impaired self-care$Psychiatric and behavioural symptoms NEC
+Gulf war syndrome$Psychiatric and behavioural symptoms NEC
+Post concussion syndrome$Psychiatric and behavioural symptoms NEC
+Psychiatric symptom$Psychiatric and behavioural symptoms NEC
+Exaggerated startle response$Psychiatric and behavioural symptoms NEC
+Psychiatric decompensation$Psychiatric and behavioural symptoms NEC
+Toe walking$Psychiatric and behavioural symptoms NEC
+Decreased eye contact$Psychiatric and behavioural symptoms NEC
+Psychological trauma$Psychiatric and behavioural symptoms NEC
+Congenital brain damage$Psychiatric disorders NEC
+Cushing's syndrome$Psychiatric disorders NEC
+Cushingoid$Psychiatric disorders NEC
+Personality change due to a general medical condition$Psychiatric disorders NEC
+Porphyria acute$Psychiatric disorders NEC
+Thyrotoxic crisis$Psychiatric disorders NEC
+Water intoxication$Psychiatric disorders NEC
+Perinatal brain damage$Psychiatric disorders NEC
+Mental disorder due to a general medical condition$Psychiatric disorders NEC
+Neuropsychiatric lupus$Psychiatric disorders NEC
+Brain injury$Psychiatric disorders NEC
+Neuropsychiatric syndrome$Psychiatric disorders NEC
+Altered state of consciousness$Psychiatric disorders NEC
+Psychological factor affecting medical condition$Psychiatric disorders NEC
+Mental status changes$Psychiatric disorders NEC
+Mental status changes postoperative$Psychiatric disorders NEC
+Dyslogia$Psychiatric disorders NEC
+Mental disorder$Psychiatric disorders NEC
+Emotional disorder of childhood$Psychiatric disorders NEC
+Failure to thrive$Psychiatric disorders NEC
+Neurotic disorder of childhood$Psychiatric disorders NEC
+Personality disorder of childhood$Psychiatric disorders NEC
+Reactive attachment disorder of infancy or early childhood$Psychiatric disorders NEC
+School refusal$Psychiatric disorders NEC
+Encopresis$Psychiatric disorders NEC
+Enuresis$Psychiatric disorders NEC
+Alcohol abuse$Psychiatric disorders NEC
+Alcohol problem$Psychiatric disorders NEC
+Alcoholic hangover$Psychiatric disorders NEC
+Alcoholism$Psychiatric disorders NEC
+Dependence$Psychiatric disorders NEC
+Drug abuse$Psychiatric disorders NEC
+Drug dependence$Psychiatric disorders NEC
+Drug dependence, antepartum$Psychiatric disorders NEC
+Drug dependence, postpartum$Psychiatric disorders NEC
+Drug withdrawal syndrome$Psychiatric disorders NEC
+Drug withdrawal syndrome neonatal$Psychiatric disorders NEC
+Intentional overdose$Psychiatric disorders NEC
+Tobacco abuse$Psychiatric disorders NEC
+Withdrawal syndrome$Psychiatric disorders NEC
+Alcohol withdrawal syndrome$Psychiatric disorders NEC
+Polysubstance dependence$Psychiatric disorders NEC
+Nicotine dependence$Psychiatric disorders NEC
+Tobacco withdrawal symptoms$Psychiatric disorders NEC
+Neonatal complications of substance abuse$Psychiatric disorders NEC
+Multiple drug overdose intentional$Psychiatric disorders NEC
+Intentional drug misuse$Psychiatric disorders NEC
+Substance abuse$Psychiatric disorders NEC
+Dopamine dysregulation syndrome$Psychiatric disorders NEC
+Binge drinking$Psychiatric disorders NEC
+Brief psychotic disorder, with postpartum onset$Schizophrenia and other psychotic disorders
+Brief psychotic disorder with marked stressors$Schizophrenia and other psychotic disorders
+Transient psychosis$Schizophrenia and other psychotic disorders
+Brief psychotic disorder without marked stressors$Schizophrenia and other psychotic disorders
+Alice in wonderland syndrome$Schizophrenia and other psychotic disorders
+Delusional disorder, erotomanic type$Schizophrenia and other psychotic disorders
+Delusional disorder, grandiose type$Schizophrenia and other psychotic disorders
+Delusional disorder, jealous type$Schizophrenia and other psychotic disorders
+Delusional disorder, mixed type$Schizophrenia and other psychotic disorders
+Delusional disorder, somatic type$Schizophrenia and other psychotic disorders
+Delusional disorder, unspecified type$Schizophrenia and other psychotic disorders
+Delusional disorder, persecutory type$Schizophrenia and other psychotic disorders
+Acute psychosis$Schizophrenia and other psychotic disorders
+Alcoholic psychosis$Schizophrenia and other psychotic disorders
+Psychotic behaviour$Schizophrenia and other psychotic disorders
+Senile psychosis$Schizophrenia and other psychotic disorders
+Shared psychotic disorder$Schizophrenia and other psychotic disorders
+Reactive psychosis$Schizophrenia and other psychotic disorders
+Epileptic psychosis$Schizophrenia and other psychotic disorders
+Childhood psychosis$Schizophrenia and other psychotic disorders
+Psychotic disorder$Schizophrenia and other psychotic disorders
+Psychotic disorder due to a general medical condition$Schizophrenia and other psychotic disorders
+Hysterical psychosis$Schizophrenia and other psychotic disorders
+Psychosis postoperative$Schizophrenia and other psychotic disorders
+Postictal psychosis$Schizophrenia and other psychotic disorders
+Substance-induced psychotic disorder$Schizophrenia and other psychotic disorders
+Schizoaffective disorder$Schizophrenia and other psychotic disorders
+Schizophreniform disorder$Schizophrenia and other psychotic disorders
+Schizoaffective disorder bipolar type$Schizophrenia and other psychotic disorders
+Schizoaffective disorder depressive type$Schizophrenia and other psychotic disorders
+Schizophrenia$Schizophrenia and other psychotic disorders
+Schizophrenia simple$Schizophrenia and other psychotic disorders
+Schizophrenia, catatonic type$Schizophrenia and other psychotic disorders
+Schizophrenia, disorganised type$Schizophrenia and other psychotic disorders
+Schizophrenia, paranoid type$Schizophrenia and other psychotic disorders
+Schizophrenia, residual type$Schizophrenia and other psychotic disorders
+Schizophrenia, undifferentiated type$Schizophrenia and other psychotic disorders
+Anorgasmia$Sexual dysfunctions, disturbances and gender identity disorders
+Female orgasmic disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Male orgasmic disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Orgasm abnormal$Sexual dysfunctions, disturbances and gender identity disorders
+Premature ejaculation$Sexual dysfunctions, disturbances and gender identity disorders
+Orgasmic sensation decreased$Sexual dysfunctions, disturbances and gender identity disorders
+Exhibitionism$Sexual dysfunctions, disturbances and gender identity disorders
+Fetishism$Sexual dysfunctions, disturbances and gender identity disorders
+Frotteurism$Sexual dysfunctions, disturbances and gender identity disorders
+Masochism$Sexual dysfunctions, disturbances and gender identity disorders
+Paedophilia$Sexual dysfunctions, disturbances and gender identity disorders
+Paraphilia$Sexual dysfunctions, disturbances and gender identity disorders
+Sadism$Sexual dysfunctions, disturbances and gender identity disorders
+Transvestism$Sexual dysfunctions, disturbances and gender identity disorders
+Voyeurism$Sexual dysfunctions, disturbances and gender identity disorders
+Psychosexual disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Gender identity disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Erection increased$Sexual dysfunctions, disturbances and gender identity disorders
+Inadequate lubrication$Sexual dysfunctions, disturbances and gender identity disorders
+Sexual inhibition$Sexual dysfunctions, disturbances and gender identity disorders
+Organic erectile dysfunction$Sexual dysfunctions, disturbances and gender identity disorders
+Psychogenic erectile dysfunction$Sexual dysfunctions, disturbances and gender identity disorders
+Disturbance in sexual arousal$Sexual dysfunctions, disturbances and gender identity disorders
+Erectile dysfunction$Sexual dysfunctions, disturbances and gender identity disorders
+Female sexual arousal disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Excessive masturbation$Sexual dysfunctions, disturbances and gender identity disorders
+Libido decreased$Sexual dysfunctions, disturbances and gender identity disorders
+Libido increased$Sexual dysfunctions, disturbances and gender identity disorders
+Loss of libido$Sexual dysfunctions, disturbances and gender identity disorders
+Sexual aversion disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Excessive sexual fantasies$Sexual dysfunctions, disturbances and gender identity disorders
+Libido disorder$Sexual dysfunctions, disturbances and gender identity disorders
+Hypersexuality$Sexual dysfunctions, disturbances and gender identity disorders
+Kluver-Bucy syndrome$Sexual dysfunctions, disturbances and gender identity disorders
+Compulsive sexual behaviour$Sexual dysfunctions, disturbances and gender identity disorders
+Dyspareunia$Sexual dysfunctions, disturbances and gender identity disorders
+Sexual dysfunction$Sexual dysfunctions, disturbances and gender identity disorders
+Vaginismus$Sexual dysfunctions, disturbances and gender identity disorders
+Female sexual dysfunction$Sexual dysfunctions, disturbances and gender identity disorders
+Male sexual dysfunction$Sexual dysfunctions, disturbances and gender identity disorders
+Painful ejaculation$Sexual dysfunctions, disturbances and gender identity disorders
+Terminal insomnia$Sleep disorders and disturbances
+Initial insomnia$Sleep disorders and disturbances
+Insomnia$Sleep disorders and disturbances
+Middle insomnia$Sleep disorders and disturbances
+Hyposomnia$Sleep disorders and disturbances
+Behavioural insomnia of childhood$Sleep disorders and disturbances
+Breathing-related sleep disorder$Sleep disorders and disturbances
+Hypersomnia$Sleep disorders and disturbances
+Pickwickian syndrome$Sleep disorders and disturbances
+Sleep apnoea syndrome$Sleep disorders and disturbances
+Somnolence$Sleep disorders and disturbances
+Somnolence neonatal$Sleep disorders and disturbances
+Stupor$Sleep disorders and disturbances
+Dyssomnia$Sleep disorders and disturbances
+Poor quality sleep$Sleep disorders and disturbances
+Upper airway resistance syndrome$Sleep disorders and disturbances
+Periodic limb movement disorder$Sleep disorders and disturbances
+Cataplexy$Sleep disorders and disturbances
+Hypnagogic hallucination$Sleep disorders and disturbances
+Hypnopompic hallucination$Sleep disorders and disturbances
+Narcolepsy$Sleep disorders and disturbances
+Sleep attacks$Sleep disorders and disturbances
+Sleep paralysis$Sleep disorders and disturbances
+Abnormal dreams$Sleep disorders and disturbances
+Nightmare$Sleep disorders and disturbances
+Rapid eye movements sleep abnormal$Sleep disorders and disturbances
+Sleep talking$Sleep disorders and disturbances
+Sleep terror$Sleep disorders and disturbances
+Somnambulism$Sleep disorders and disturbances
+Abnormal sleep-related event$Sleep disorders and disturbances
+Parasomnia$Sleep disorders and disturbances
+Loss of dreaming$Sleep disorders and disturbances
+Sleep-related eating disorder$Sleep disorders and disturbances
+Sleep sex$Sleep disorders and disturbances
+Sleep inertia$Sleep disorders and disturbances
+Confusional arousal$Sleep disorders and disturbances
+Sleep disorder due to general medical condition, hypersomnia type$Sleep disorders and disturbances
+Sleep disorder due to general medical condition, insomnia type$Sleep disorders and disturbances
+Sleep disorder due to general medical condition, mixed type$Sleep disorders and disturbances
+Sleep disorder due to general medical condition, parasomnia type$Sleep disorders and disturbances
+Sleep disorder due to a general medical condition$Sleep disorders and disturbances
+Sleep disorder$Sleep disorders and disturbances
+Hypersomnia-bulimia syndrome$Sleep disorders and disturbances
+Sopor$Sleep disorders and disturbances
+Hypersomnia related to another mental condition$Sleep disorders and disturbances
+Insomnia related to another mental condition$Sleep disorders and disturbances
+Advanced sleep phase$Sleep disorders and disturbances
+Circadian rhythm sleep disorder$Sleep disorders and disturbances
+Delayed sleep phase$Sleep disorders and disturbances
+Irregular sleep phase$Sleep disorders and disturbances
+Sleep phase rhythm disturbance$Sleep disorders and disturbances
+Compensation neurosis$Somatoform and factitious disorders
+Munchausen's syndrome$Somatoform and factitious disorders
+Factitious disorder$Somatoform and factitious disorders
+Aphonia psychogenic$Somatoform and factitious disorders
+Blindness hysterical$Somatoform and factitious disorders
+Conversion disorder$Somatoform and factitious disorders
+Dysphonia psychogenic$Somatoform and factitious disorders
+Hypochondriasis$Somatoform and factitious disorders
+Irritable bowel syndrome$Somatoform and factitious disorders
+Polydipsia psychogenic$Somatoform and factitious disorders
+Psychogenic dysuria$Somatoform and factitious disorders
+Psychogenic pain disorder$Somatoform and factitious disorders
+Somatisation disorder$Somatoform and factitious disorders
+Somatoform disorder cardiovascular$Somatoform and factitious disorders
+Somatoform disorder gastrointestinal$Somatoform and factitious disorders
+Somatoform disorder pregnancy$Somatoform and factitious disorders
+Somatoform disorder skin$Somatoform and factitious disorders
+Torticollis psychogenic$Somatoform and factitious disorders
+Vomiting psychogenic$Somatoform and factitious disorders
+Psychosomatic disease$Somatoform and factitious disorders
+Body dysmorphic disorder$Somatoform and factitious disorders
+Colitis psychogenic$Somatoform and factitious disorders
+Somatoform disorder$Somatoform and factitious disorders
+Somatoform disorder neurologic$Somatoform and factitious disorders
+Pseudoneurologic symptom$Somatoform and factitious disorders
+Device psychogenic complication$Somatoform and factitious disorders
+Psychogenic movement disorder$Somatoform and factitious disorders
+Psychogenic tremor$Somatoform and factitious disorders
+Completed suicide$Suicidal and self-injurious behaviours NEC
+Intentional self-injury$Suicidal and self-injurious behaviours NEC
+Suicidal ideation$Suicidal and self-injurious behaviours NEC
+Suicide attempt$Suicidal and self-injurious behaviours NEC
+Self-injurious ideation$Suicidal and self-injurious behaviours NEC
+Self injurious behaviour$Suicidal and self-injurious behaviours NEC
+Suicidal behaviour$Suicidal and self-injurious behaviours NEC

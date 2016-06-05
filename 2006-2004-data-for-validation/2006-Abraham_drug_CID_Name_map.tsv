@@ -1,0 +1,315 @@
+297	Methane	0.03
+8003	Pentane	0.63
+8058	Hexane	0.68
+8900	Heptane	0.44
+356	Octane	0.69
+8141	Nonane	0.52
+15600	Decane	0.67
+7892	2-Methylpentane	0.97
+11594	2-Methyl heptane	0.86
+18591	2-Methyl octane	0.98
+13379	2-Methyl nonane	1.05
+7282	3-Methylpentane	1.01
+11507	3-Methylhexane	0.9
+6403	2,2-Dimethylbutane	1.04
+6351	Cyclopropane	0.11
+7296	Methylcyclopentane	0.93
+8078	Cyclohexane	1.11
+7962	Methylcyclohexane	0.96
+11416	1,2-Dimethylcyclohexane	1.07
+18508	t-Butylcyclohexane 	0.61
+91517	1,2,4-Trimethylcyclohexane	1.02
+6344	Dichloromethane 	-0.34
+6212	Chloroform	0.15
+6365	1,1-dichloroethane	-0.28
+11	1,2-dichloroethane	-0.14
+6278	1,1,1-Trichloroethane	0.29
+6574	1,1,2-trichloroethane	-0.1
+12418	1,1,1,2-tetrachloroethane	0.33
+NONE	1-Chloro-2,2,2-trifluroethane	0.12
+7840	1-bromopropane	0.27
+6358	2-bromopropane	0.56
+31300	Teflurane	0.27
+3562	Halothane	0.14
+17358	Sulphur Hexafluoride	0.39
+6325	ethylene	0.31
+NONE	trans 1,2-dichloroethene	0.04
+NONE	cis 1,2-dichloroethene	-0.13
+31373	tetrachloroethylene	0.37
+8252	Propene	-0.06
+8125	1-Octene	0.74
+31285	1-Nonene	0.86
+13381	1-Decene	0.96
+7845	1,3-Butadiene	-0.17
+6575	Trichloroethene	0.11
+NONE	1-Chloro-2,2-difluroethylene	-0.02
+6348	Carbon Disulfide	0.6
+887	Methanol	0.02
+702	Ethanol	-0.12
+1031	1-Propanol	-0.08
+263	1-Butanol	-0.02
+6276	1-Pentanol	0.2
+3776	2-Propanol	-0.11
+6560	2-Methyl-1-propanol	-0.14
+31260	3-Methyl-1-butanol	0.04
+6386	t-butanol	0.11
+NONE	amylene-hydrate	0.07
+3283	Diethyl ether	-0.01
+12512	Ethyl t-butyl ether 	0.22
+15413	Methyl t-butyl ether 	0.36
+61247	tertiary-Amyl methyl ether 	0.17
+4116	Methoxyflurane	0.12
+3763	Isoflurane	0.19
+3226	Enflurane	0.14
+5206	sevoflurane	0.3
+6354	Ethylene Oxide	0.01
+9844	Fluroxene	0.14
+8024	Divinyl ether	0.13
+180	Acetone	-0.17
+6569	2-Butanone	-0.17
+7895	2-pentanone	-0.01
+6584	Methyl acetate	-0.13
+8857	Ethyl acetate	0
+7991	Propyl acetate 	0.12
+8892	Butyl acetate	0.28
+12348	Pentyl acetate 	0.4
+7915	Isopropyl acetate	0.4
+8038	Isobutyl acetate	0.45
+31276	Isopentylacetate 	0.55
+241	Benzene	0.2
+1140	Toluene	0.27
+7237	o-Xylene	0.41
+7929	m-xylene	0.22
+7809	p-xylene 	0.38
+7500	ethylbenzene	0.26
+7501	styrene	0.45
+7366	t-Butylbenzene 	0.43
+7247	1,2,4-Trimethylbenzene	0.16
+7394	4-Chlorobenzotrifluoride	0.17
+7859	propargyl alcohol	-0.23
+7855	acrylonitrile	-0.4
+NONE	1-(3-Fluoropropyl)-2-nitroimidazole	-0.24
+NONE	1-(8-fluorooctyl)-2-nitroimidazole	-0.17
+NONE	16a-fluoroestradiol	-0.3
+NONE	1-hexyl-4-(4-iodophenyl)piperazine	1.01
+107917	1-hydroxymidazolam	-0.07
+NONE	1-isobutyl-4-(4-iodophenyl)piperazine	1.38
+NONE	4-Fluoroantipyrine	-0.05
+124449	4-hydroxymidazolam	-0.03
+NONE	4-iodo-alpha,alpha'-dipiperidino-m-xylene	0.98
+NONE	4-Iodoantipyrine OK 	-0.1
+NONE	4-iodo-N,N'-isopropyl-m-xylenediamine	0.64
+6473	5-Butyl-5-ethyl barbituric acid	0.19
+NONE	5-Heptyl-5-ethyl barbituric acid	0.02
+NONE	5-Hexyl-5-ethyl barbituric acid	0.36
+95705	5-Methyl-5-ethyl barbituric acid	-0.22
+NONE	5-Octyl-5-ethyl barbituric acid	0.24
+NONE	5-Pentyl-5-ethyl barbituric acid	0.09
+NONE	5-Propyl-5-ethyl barbituric acid	0.09
+NONE	9-OH Risperidone	-0.67
+5316673	AFE	0.55
+NONE	AI-9	0.67
+119329	alaptide	-0.26
+NONE	alovudine ok	-0.59
+NONE	alpha-(4-pyridyl-1-oxide)-N-tert-butylnitrone	-0.38
+2118	Alprazolam	0.04
+2118	Alprazolam	-0.04
+NONE	Aminopyrine OK	0
+2164	Amobarbital	0.04
+NONE	Antipyrine OK	-0.1
+NONE	Antipyrine OK	-0.22
+2249	atenolol	-0.7
+2294	Barbital	-0.14
+166560	Beloxepin	0.82
+NONE	BESP	-0.43
+2366	betahistine	-0.3
+2381	Biperiden	0.85
+6623	bisphenol A	-0.12
+NONE	BMSP	-0.55
+NONE	BPSP	-0.01
+107926	bretazenil	-0.09
+NONE	BSP	0.07
+2482	butyl 4-aminobenzoate	0.42
+2519	Caffeine	0.12
+2554	carbamazepine	0
+2578	Carmustine	-0.52
+2583	carteolol	-0.4
+2726	Chlorpromazine	1.06
+2726	Chlorpromazine	1.06
+2726	Chlorpromazine	1.06
+2789	Clobazam	0.35
+2803	Clonidine	0.11
+446220	Cocaine	0.6
+5284371	Codeine	-0.22
+854019	Cotinine	-0.32
+854019	Cotinine	-0.38
+NONE	daidzein OK	-0.15
+2995	Desipramine	1
+NONE	desmethydesipramine	1.06
+89657	Desmethylclobazam	0.36
+2997	Desmethyldiazepam	0.5
+28315	desmonomethylpromazine	0.59
+3016	Diazepam	0.52
+50599	Didanosine	-1.3
+3100	diphenhydramine	1.26
+3151	domperidone	-0.93
+3162	doxylamine	0.64
+3282	ethenzamide	-0.05
+2337	ethyl 4-aminobenzoate	0.27
+3345	Fentanyl	0.6
+3345	Fentanyl	0.56
+NONE	FFMZ	-0.09
+3373	flumazenil	-0.29
+3380	Flunitrazepam	0.06
+NONE	fluoroethylfumazrnil	-0.14
+92242	fluoromisonidazole	-0.01
+3386	Fluoxetine	0.36
+10114	glycyrrhetinic acid	-1.4
+162960	HEPP	0.04
+3608	Hexobarbital 	0.1
+3608	Hexobarbital 	0.05
+3658	Hydroxyzine	0.39
+559452	I-1	-0.25
+NONE	I-4	1.13
+3672	Ibuprofen	-0.18
+3696	Imipramine	0.83
+5362440	Indinavir	-0.74
+3715	Indomethacin	-1.26
+3715	Indomethacin	-1.26
+3878	lamotrigine	0.48
+3676	lidocaine	0.34
+3958	Lorazepam	0.47
+3958	Lorazepam	0.41
+4375468	Lupitidine	-1.06
+6251	Mannitol	-1.6
+4046	Mefloquine	0.63
+10836	methamphetamine	0.9
+9034	Methohexital	-0.06
+4184	Mianserin	0.99
+4192	Midazolam	0.36
+4192	Midazolam	0.52
+4192	Midazolam	0.4
+37614	miloxacin	-0.92
+4205	Mirtazapine	0.53
+NONE	misonidazolefluoro	-0.01
+5288826	Morphine	-0.65
+NONE	MSP	0.46
+4421	nalidixic acid	-0.66
+4463	Nevirapine	0
+89594	Nicotine	0.24
+NONE	Northioridazine	0.75
+4585	Olanzapine	0.78
+NONE	Org13011	0.16
+NONE	Org30526	0.39
+NONE	Org32104	0.52
+NONE	Org34167	0
+163091	Org5222	1.03
+4616	Oxazepam	0.61
+1983	Paracetamol	-0.34
+4687	Paraxanthine	0.06
+441278	Pentazocine	0.45
+441278	Pentazocine	0.64
+4737	Pentobarbital	0.12
+5917	pentylenetetrazole	-0.03
+2206	Phenazone	-0.1
+6468	phencyclidine	0.44
+4781	Phenylbutazone	-0.52
+638877	Phenyl-N-tert-butylnitrone	0.05
+1775	Phenytoin	-0.04
+1775	Phenytoin	-0.16
+5983	physostigmine	0.08
+4828	Pindolol	-0.15
+4828	Pindolol	-0.12
+1345	PK-11195	0.48
+66724	p-Phenylbenzoic acid	-1.26
+4914	procaine	0.05
+4926	Promazine	1.23
+4926	Promazine	0.67
+4943	Propofol	0.48
+4943	Propofol	0.91
+NONE	Propranolo	0.64
+22157799	propyl-4-aminobenzoate	0.55
+31423	pyrene	0.23
+4992	Pyrilamine	0.5
+441074	quinidine	0.1
+667528	R-Etodolac	-1.51
+5073	Risperidone	-0.02
+5092	rolipram	0.61
+5095	ropinirole	0.25
+NONE	S-2fluoroethylisothiourea	-0.27
+2083	salbutamol	-1.3
+338	Salicylic acid	-1.1
+441243	saquinavir	-1.03
+688461	S-Etodolac	-1.34
+NONE	SKB15	-0.67
+NONE	SKB16	-0.66
+NONE	SKB17	-0.12
+NONE	guanidinen4phenylthiazol2yl	-0.18
+NONE	guanidinen25methylthiazol2yl	-0.04
+NONE	guanidinen43aminophenylthiazol2yl	-1.15
+NONE	SKB22	-1.57
+NONE	guanidinenmethylncyanon32nguanidylthiazol4ylphenyl	-1.54
+NONE	pyrrole3nitro225dimethylaminomethylfuran2ylmethylthioethylamino	-1.12
+NONE	ranidtidineanalog	-0.73
+NONE	pyrrole3nitro235dimethylaminomethylfuran2ylphenylamino	-0.27
+NONE	SKB29	-0.28
+NONE	npropylacetamide33npiperidinylmethylphenoxy	-0.46
+NONE	benzamiden33piperidinylmethylphenoxy	-0.24
+NONE	propanol33npiperidinylmethylphenoxy	-0.02
+NONE	2pyridineaminen33npiperidinylmethylphenoxypropyl	0.69
+NONE	SKB37	0.44
+NONE	SKB42	0.22
+133741	SKF 89124	-0.43
+5142	S-methylisothiourea	-0.6
+5265	Spiperone	0.26
+18283	Stavudine	-0.48
+31765	Sulforidazine	0.18
+1549008	terbinafine	0.09
+NONE	tertbutylchlorambucil	1
+5429	Theobromine	-0.3
+2153	Theophylline	-0.35
+3000715	Thiopental	-0.15
+3035905	thioperamide	-0.16
+5452	Thioridazine	0.24
+5452	Thioridazine	0.46
+5452	Thioridazine	0.15
+444008	tibolone	0.4
+50287	Tiotidine	-0.82
+18047	Toliprolol	0.47
+18047	Toliprolol	0.09
+5556	Triazolam	0.57
+NONE	Trifluroperazine	1.44
+2160	triptanol	0.89
+3121	Valproic acid	-1.15
+2520	Verapamil	-0.7
+2520	verapamil	-0.24
+962	water	-0.04
+NONE	2pyridineethanaminenndimethyl 	-0.06
+NONE	thiazole22aminoethyl	-0.42
+35370	Zidovudine	-0.72
+91769	Zolantidine	0.14
+2997	Nordazepam	0.5
+NONE	BBCPD10	-1.17
+NONE	BBCPD12	-0.67
+NONE	BBCPD13	-0.66
+NONE	BBCPD14	-0.12
+NONE	BBCPD15	-0.18
+NONE	BBCPD57	-1.15
+NONE	BBCPD16	-1.57
+NONE	BBCPD58	-1.54
+NONE	BBCPD17	-1.12
+NONE	BBCPD60	-0.73
+NONE	BBCPD18	-0.27
+NONE	BBCPD19	-0.28
+NONE	BBCPD20	-0.46
+NONE	BBCPD21	-0.24
+NONE	BBCPD22	-0.02
+NONE	BBCPD23	0.69
+NONE	BBCPD24	0.44
+NONE	BBCPD26	0.22
+NONE	ICI17148	-0.04
+6604009	SB222200	0.3
+NONE	CBZ-EPO	-0.34
+NONE	L-663,581	-0.3
+NONE	M1L-663,581	-1.34
+NONE	M2L-663,581	-1.82
