@@ -1,0 +1,51 @@
+v0.5
+
+git create "BBB"
+/or
+git clone https://github.com/bioinfo-gao/CASE-BBB-prediction-code.git (all branch) 
+
+git init user.name (all branch) 
+git init user.email (all branch) 
+
+
+git commit 
+git log open vim Editor
+
+q to quit
+
+git commit in -am (all branch) # am bot add and commit
+git commit in -am "" 
+git status 
+git log 
+
+
+git add test.txt
+git add .
+git branch 0.2
+git branch 0.3
+git commit in -a (all branch) 
+git branch -M main # main branch
+git remote add origin https://github.com/bioinfo-gao/CASE-BBB-prediction-code.git
+git remote add upstream https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git
+
+git push -u origin main
+
+git merge
+
+##### 
+(base) PS C:\Users\zhen-\Documents\Code> git remote -v
+origin  https://github.com/bioinfo-gao/git_data (fetch)
+origin  https://github.com/bioinfo-gao/git_data (push)
+(base) PS C:\Users\zhen-\Documents\Code> git remote -v                                                            
+origin  https://github.com/bioinfo-gao/git_data (fetch)
+origin  https://github.com/bioinfo-gao/git_data (push)
+upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git (fetch)
+upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git (push)
+
+git remote rm upstream # this is used to remove remote upstream for bioinformatics_gao
+
+git checkout -b kwc # kwd is just name of somebody
+
+git log looks like "vim"
+
+input q to quit 
