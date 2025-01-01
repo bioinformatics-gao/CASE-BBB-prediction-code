@@ -26,5 +26,5 @@ upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.g
 
 git remote rm upstream # this is used to remove remote upstream for bioinformatics_gao
 
-git checkout -b kwc
+git checkout -b kwc # kwd is just name of somebody
 
