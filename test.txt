@@ -7,6 +7,7 @@ git branch 0.3
 git commit in -a (all branch) 
 git branch -M main # main branch
 git remote add origin https://github.com/bioinfo-gao/CASE-BBB-prediction-code.git
+git remote add upstream https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git
 
 git push -u origin main
 
@@ -16,7 +17,6 @@ git merge
 (base) PS C:\Users\zhen-\Documents\Code> git remote -v
 origin  https://github.com/bioinfo-gao/git_data (fetch)
 origin  https://github.com/bioinfo-gao/git_data (push)
-(base) PS C:\Users\zhen-\Documents\Code> git remote add upstream https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git
 (base) PS C:\Users\zhen-\Documents\Code> git remote -v                                                            
 origin  https://github.com/bioinfo-gao/git_data (fetch)
 origin  https://github.com/bioinfo-gao/git_data (push)
