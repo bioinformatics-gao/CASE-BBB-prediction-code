@@ -6,10 +6,9 @@ git branch 0.2
 git branch 0.3
 git commit in -a (all branch) 
 git branch -M main # main branch
-#git remote add origin https://github.com/bioinfo-gao/CASE-BBB-prediction-code.git
+git remote add origin https://github.com/bioinfo-gao/CASE-BBB-prediction-code.git
 
 git push -u origin main
-
 
 git merge
 
