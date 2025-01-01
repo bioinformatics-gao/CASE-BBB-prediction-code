@@ -27,3 +27,6 @@ git remote rm upstream # this is used to remove remote upstream for bioinformati
 
 git checkout -b kwc # kwd is just name of somebody
 
+git log looks like "vim"
+
+input q to quit 
